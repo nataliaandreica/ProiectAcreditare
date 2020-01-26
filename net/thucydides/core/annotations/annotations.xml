@@ -1,0 +1,5 @@
+<root>
+    <item name='net.thucydides.core.annotations.DefaultUrl'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
