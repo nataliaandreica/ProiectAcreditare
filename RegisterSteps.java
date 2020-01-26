@@ -8,6 +8,7 @@ import org.junit.Assert;
 
 public class RegisterSteps {
 
+
     private HomePage homePage;
     private MyAccountPage myAccountPage;
     private DashboardPage dashboardPage;
